@@ -1,0 +1,501 @@
+﻿FAQ QUESTIONS,FAQ ANSWERS
+"I can’t locate my account or don’t know my username on
+Instagram","If you aren't able to locate your account after entering your username:
+● Make sure that you're entering your username correctly, especially if it
+contains repeated characters.
+● Don't include the @ symbol when entering your username.
+If you think your username was changed as a result of your account being
+compromised:
+● Check if you've received an email from Instagram notifying you that
+your account information was changed.
+● Ask a friend to visit your profile and take a screenshot of your current
+username.
+Learn more about what you can do if you think your account was hacked ."
+Why am I seeing a network timeout error?,"Code Verify adds an extra layer of security to end-to-end encryption when people use
+WhatsApp on the web. If you have downloaded the Code Verify web browser extension,
+you might see a warning that says “Network timed out. Unable to validate this page.”
+This might occur for the following reasons:
+● Your network connection is unstable.
+● Something is disrupting verification of the page.
+To resolve the issue:
+● Reload the page and open the extension again.
+● Try connecting to another WiFi network.
+● Try pausing your other extensions, going through the validation process
+again, and unpausing your other extensions once finished. You might have to
+reload WhatsApp Web to clear the warning.
+● If the warning persists, proceed with caution and consider logging out of
+WhatsApp Web and using WhatsApp on your mobile device, as your
+messages on the web might no longer be private."
+Why am I seeing a possible risk detected warning?,"Code Verify adds an extra layer of security to end-to-end encryption when people use
+WhatsApp on the web. If you have downloaded the Code Verify web browser extension,
+you might see a warning that says “Cannot validate the page due to another browser
+extension. Consider pausing the other extension(s) and re-trying.” This might occur for
+the following reasons:
+● You have another extension installed that is interfering with our ability to
+verify the page.
+● Your other active browser extensions might be able to read or modify
+content that you see on WhatsApp Web. The best way to ensure the security
+of your messages on WhatsApp Web is to disable any extensions that cause
+this warning.
+To resolve the issue:
+● Try pausing your other extensions, going through the validation process
+again, and unpausing your other extensions once finished. You might have to
+reload WhatsApp Web to clear the warning.
+● If the error persists, disable any extensions you’re unsure of while using the
+page. You might have to reload WhatsApp Web to clear the warning.
+● If you trust your other active extensions, no action is required."
+Why am I seeing a validation failure warning?,"Code Verify adds an extra layer of security to end-to-end encryption when people use
+WhatsApp on the web. If you have downloaded the Code Verify web browser extension,
+you might see a warning that says “Validation Failure”. This might occur for the
+following reasons:
+● You have another extension installed that is interfering with our ability to
+verify the page.
+● The code running your WhatsApp Web page doesn't match the code
+everyone else is using.
+● Something went wrong on our side.
+To resolve the issue:
+● Try pausing your other extensions, going through the validation process
+again, and unpausing your other extensions once finished. You might have to
+reload WhatsApp Web to clear the warning.
+● Check to see if it has been publicly addressed on the Engineering at Meta
+website or Engineering at Meta Twitter page .
+● If it has not been addressed as a known issue, log out of WhatsApp Web and
+use WhatsApp on your mobile device, as your messages on the web might
+no longer be private. If you want to investigate the issue further, click the red
+validation failure warning and download the source code."
+"Seeing ""Waiting for this message. This may take a
+while.""","At times, you might see the above message in place of what you were sent from a
+contact. Due to end-to-end encryption, you might need to wait for someone's message
+to arrive because their phone needs to come online and properly encrypt the message
+for you. This can typically occur if you or the person you're chatting with recently
+reinstalled WhatsApp.
+To speed up this process, ask the person you're messaging to open WhatsApp on their
+phone."
+How to verify,"1. Enter your phone number :
+○ Choose your country from the drop down list. This will
+automatically fill your country code on the left.
+○ Enter your phone number in the box on the right. Don't put any 0
+before your phone number.
+2. Tap Next to request a code.
+3. Enter the 6-digit code you receive via SMS."
+Didn't receive the 6-digit code ?,"If you didn't receive the 6-digit code by SMS
+● Wait for the progress bar to finish and retry. The wait may take up to 10
+minutes.
+● Don't guess the code, or you will be locked out for a period of time.
+● If the timer runs out before you receive the code, an option will appear to
+request a phone call. Choose the Call me option to request the call. When
+you answer the call, an automated voice should tell you the 6-digit code.
+Insert that to verify WhatsApp."
+Troubleshooting steps,"If you are having issues verifying, please try the following:
+1. Reboot your phone (To reboot your phone, turn it off, wait for 30 seconds,
+and turn it back on).
+2. Delete and reinstall the latest version of WhatsApp.
+3. Send a test SMS message from any phone to your own phone number
+exactly as you entered it in WhatsApp, including the country code, to check
+your reception."
+Problems sending or receiving messages,"The most common reason why you can't send or receive WhatsApp messages is a bad
+Internet connection. Learn how to troubleshoot connection issues on: Android | iPhone
+If you're sure your phone is connected to the Internet, there are a few reasons why
+WhatsApp messages aren't going through:
+● Your phone needs to be restarted or turned off and on.
+● The contact you're messaging has blocked your number. Find out more in
+this article .
+● You haven't completed the initial verification process. Learn about
+verification on: Android | iPhone .
+● The number of the contact you're trying to message on WhatsApp hasn't
+been saved correctly on your phone. Learn the correct format of each phone
+number here ."
+What is Skype Premium?,"Skype Premium is the top-tier offering from Skype, and includes unlimited calls to a
+country of your choice, group video chats and live customer service support; all for
+just $4.99 per month."
+Getting error in billing ?,"Error codes for billing
+General
+Error code and description Suggested troubleshooting
+Payment is declined because
+the account has insufficient
+funds, please contact your
+bank or try a different payment
+method.
+Please try a different payment method or
+contact your bank for assistance.
+The system could not process
+your request at this time,
+please try again later or using
+another payment method. If
+the problem persists please
+contact your bank or try a
+different payment method. If
+the issue persists, please
+submit a request to Zoom for
+assistance.
+Please follow the troubleshooting of
+trying again later, trying a different
+payment card, or contacting your bank. If
+the issue persists, please reach out to
+Billing by chat.
+This transaction has been
+declined because this currency
+is not supported on this card.
+Please contact your bank or
+try a different payment
+method.
+Please try a different payment method or
+contact your bank for assistance.
+This transaction type is not
+allowed on this credit card.
+Please contact your bank or
+try a different payment
+method.
+Please try a different payment method or
+contact your bank for assistance.
+We are unable to process this
+request due to an issue with
+the credit card, please contact
+your bank or try a different
+payment method.
+Please try a different payment method or
+contact your bank for assistance
+We could not process your
+payment at this time, please
+contact your bank or try a
+different payment method.
+Please try a different payment method or
+contact your bank for assistance.
+You have exceeded the
+amount of attempts to process
+payment for this card with an
+invalid number. Please try
+another payment method.
+Please refresh the page and try another
+payment method.
+Your purchase could not be
+processed due to an invalid
+address. Please update your
+payment method’s address to
+match what your bank has on
+file or contact your bank to
+confirm the correct address for
+your payment method.
+Verify that the address entered under the
+Payment Method section matches what
+your bank has on file for the payment
+card that you entered. If you're unsure,
+contact your bank to confirm the primary
+address they have on file for your
+payment card.
+Your purchase could not be
+processed due to an invalid
+credit card number. Please
+update the credit card
+information or try a different
+payment method. If the issue
+persists, we recommend
+contacting your bank
+Please ensure that you have entered the
+correct payment method information.
+Otherwise, please try a different payment
+method or contact your bank for
+assistance.
+Error! The system could not
+process your request at this
+time, please try again later or
+using another payment
+method. If the problem persists
+please contact your bank or try
+a different payment method. If
+the issue persists, please
+submit a request to Zoom for
+assistance.
+Please follow the troubleshooting of
+trying again later, trying a different
+payment card, or contacting your bank. If
+the issue persists, please reach out to
+Billing by chat.
+PayPal
+Error code and description Suggested troubleshooting
+10417: The transaction did not
+complete with the customer's
+selected payment method
+Use an alternative payment method from
+your PayPal wallet or add a new credit card
+to PayPal.
+Note: Zoom does not accept PayPal
+balances.
+10204: Account is closed or
+restricted
+PayPal declined the transaction. Contact
+PayPal for assistance.
+10009
+Refund was already processed by PayPal
+and no further refund is owed.
+Other error codes
+Error code and description Suggested troubleshooting
+Unknown Error
+Please ensure that you have entered the
+needed information into all fields on your
+payment method and billing address. If the
+issue persists, please reach out to Billing by
+chat.
+We are unable to process
+payment for your invoice, please
+Contact Sales to assist with
+payment.
+Please ensure that you have entered the
+needed information into all fields on your
+payment method and billing address. If the
+issue persists, please reach out to Billing by
+chat.
+Something went wrong when
+trying to place your order. Check
+that your billing information is up
+to date and make sure to disable
+pop-up blockers when subscribing
+since it may conflict with the
+recaptcha. If the issue persists try
+another browser or contact Zoom
+Please try the troubleshooting mentioned
+such as using an alternate browser and
+disabling pop-up blockers. In order for your
+purchase to process, you will need the
+Recaptcha button to appear.
+for assistance via email or phone
+1-(888)-799-9666 ext. 3.
+If the issue persists, please reach out to
+Billing by chat.
+If you do not receive an error, but
+cannot proceed by clicking
+Continue or move forward with
+your purchase. Or, if you cannot
+view the payment interface,
+please try the suggested
+troubleshooting.
+1. Use Chrome or FireFox.
+2. Delete browser cache and cookies.
+3. Deactivate any Ad-blocking software or
+extensions.
+4. Use an Incognito window.
+200: Address mismatch
+Verify that the address entered under the
+Payment Method section matches what your
+bank has on file for the payment card that you
+entered. If you're unsure, contact your bank
+to confirm the primary address they have on
+file for your payment card.
+202: Invalid Expiration Date
+Make sure you enter a valid expiration date
+as shown on your credit card. You may have
+to re-enter all credit card information in order
+to update the expiration date.
+203: General Decline of Card; no
+other information provided by
+issuing bank
+Make sure you correctly entered the
+expiration date and security code. If you're
+still getting this error, your bank may have
+blocked the payment. Contact your bank for
+help.
+208: Card is out of date or
+expiration date invalid
+Make sure you are using a credit card with a
+valid expiration date.
+230: The authorization request
+was approved by the issuing bank
+but declined
+Use a different credit card.
+405: System error
+Use a different credit card. If you're still
+getting this error, please reach out to Billing
+by chat for further assistance.
+102, 500: Invalid field Please reach out to Billing by chat for further
+assistance.
+150 Please reach out to Billing by chat for further
+assistance."
+"Why am I receiving Error Code 4 when I sign
+in to Zoom?","How to fix Error Code 4
+The simplest way to resolve this issue is to uninstall the Zoom application , then
+download and reinstall it.
+Alternatively, on a Windows device you can open File Explorer and locate the file
+named %appdata%/Zoom/data then delete it.
+On a MacOS device open Finder and locate the file named ~/Library/Application\
+Support/zoom.us/data then delete it."
+What do I do if I have a fraudulent charge on my Dell Business Credit account?,"If you suspect the Dell Business Credit account for your business was opened without
+authorization or that an unauthorized purchase was made on the account, please
+promptly report the identity theft/fraud to us and submit an Identity theft claim to
+protect your business. To view the status of your claim, please visit: //dell.com/fact"
+How can I obtain my account number for my Dell Business Credit account?,"Your 19-digit account number can be found on your monthly statement or by logging
+into your online account at www.dell.com/dfs."
+How can I obtain/reset my pin number for my Dell Business Credit account?,"To reset your PIN, login to your online account at www.dell.com/dfs. Need additional
+help? Call the Dell Financial Services Customer Service Team at 1-866-413-3355, ext.
+7280875. Customer services agents are available M-F, 7AM to 8PM CT."
+How do I change my order?,"You should contact your Dell Inc. Sales Representative at the number listed on your
+contract to make any changes to your pending order."
+When is my first payment due for my Dell Business Credit account?,"Your first payment is due approximately 30 days after your entire order is shipped. If you
+have signed up for the AutoPay Plan, your first payment will be automatically deducted
+from your banking account, unless you have been notified otherwise. You will not
+receive an invoice with the AutoPay Plan."
+Where do I send Dell Business Credit monthly payments when I pay by check?,"Mail payment to:
+Dell Business Credit Payment Processing Center
+P.O. BOX 5275
+Carol Stream, IL 60197-5275
+Make the check payable to: DELL BUSINESS CREDIT
+• Include the 19-digit account number on the check or money order
+• Fill in the “Amount Enclosed” on the payment coupon for accurate posting
+• Ensure the ”Amount Enclosed” written on payment coupon equals the check amount
+• Enclose the payment coupon with the check in the return envelope"
+Can I make a payment online?,"Online bill payment is offered for Dell Business Credit (DBC) and Dell Business Lease.
+To learn more about DBC online bill pay, click here. To learn more about Dell Business
+Lease online bill pay, click here."
+What is a PPT Fee?,"Many states require property taxes be paid based on the value of purchased or leased
+equipment. Where the taxes are applicable, we have elected to pay them directly to the
+taxing entity. This service will enable you to avoid the administrative work associated
+with these taxes. The Personal Property Tax Fee is based on the estimated tax liability
+of the particular location of your equipment. You may incur a sales and usage tax on the
+value of this service."
+How do we change the business name on the lease contract?,"If the business name has changed, please submit the reason for the request and all
+supporting legal documentation pertaining to the name change such as the Amended
+Articles of Incorporation. Please fax your information to DFS Correspondence at 512-
+723-6082."
+How do I return equipment if I'm not satisfied?,"Dell offers the Dell Return Policy. To initiate the return process, please contact Dell Inc.
+Customer Service at 1-800-624-9897. They will inform you of the steps you should take
+to return the equipment. After your equipment is received at Dell, we will credit your
+lease account and adjust your monthly payment accordingly or close your account. A
+letter will then be sent to verify that the return has been completed and your account
+has been adjusted. Please note that it may take up to 3 weeks to complete this process"
+Where all does shoplenovo.co.in deliver?,"shoplenovo.co.in delivers across the country to over 12000 Pincodes. These deliveries
+are made through reputed courier companies. Since there is a constant addition of
+shoplenovo.co.in delivers across the country to over 12000 Pincodes. These deliveries
+are made through reputed courier companies. Since there is a constant addition of
+pincodes, the exact number might vary from time to time."
+What is the delivery timeline or my order?,"The general delivery timeline is 5 to 7 business days (metro cities) and 8 to 12 business
+days(non metro cities) depending on the delivery address pin code."
+How will I know whether I can get delivery in the areas that I live?,"Deliveries are made through third party courier companies. All deliverable pincodes are
+pre populated in the backend.
+Serviceable pincode (area) can be checked from any product page on shoplenovo.co.in
+website.
+The option is displayed on the right side of the product information.
+In case the pincode (area) you live in is not a part of the serviceable list, an error
+message will be displayed."
+What are the payment options that I can avail of while placing an order?,"Currently the following payment options are enabled.
+1) Credit Cards ( Visa / Master)
+2) Net Banking across Banks
+3) Debit Cards ( Visa / Master)
+4) American Express
+5) EMI facility (Only for ICICI Bank , Axis Bank, Kotak Mahindra and IndusInd Bank Credit
+Cards)"
+What is Net Distribution and what is their relationship with Lenovo India?,"Net distribution is The Authorized onLine e retailer of Lenovo. Net distribution services
+Pvt Ltd is authorized by Lenovo to sell all its products.
+shoplenovo.co.in is set up and operated by Net Distribution Services Pvt ltd."
+Is there a charge for delivery?,"No there is no charge for delivery currently. Delivery is free for all orders across the
+country."
+What if I'm not home to receive my order?,"shoplenovo.co.in uses 3rd party courier companies for deliveries. Most Courier
+companies generally attempt 3 times to deliver the products. They also leave a note for
+a call back in case the door is unanswered The courier company itself may leave an
+intimation for you or may call you to check for a time convenient to deliver, in case they
+don’t find you at home. Please give a delivery time that will suit your schedule."
+"Can I place the order online and pick up my order from your Store which is nearest to
+me?","You cannot place the order online and collect from the store. All orders placed online
+will be sent directly to the shipping address mentioned while placing the order."
+What is your exchange policy?,"Orders once delivered cannot be exchanged. In case of a manufacturing defect , please
+contact the Lenovo service centre immediately and the Lenovo service staff will guide
+you on the next steps with reference to the replacement of the product.
+The toll free numbers for the service centers are:
+For Smart phones: 1800-3000-7678
+For Tablets: 1800-208-7555
+For Laptops: 1800-419-4666(Think products) 1800-419-7555 (Idea products)
+You can write to customercare@lenovo.com for further assistance."
+Can I cancel my order?,"To cancel your contact customer care on Contact us with your name , order number ,
+order date and your mobile number. Our team will call you and confirm the cancellation.
+Orders cannot be cancelled post 24 hours of order placing as we normally ship the
+products in 24 hours."
+When and how will get my refund in case of cancellation or product return?,"Refunds are credited back to the same instrument which was debited. The process
+generally takes 7-14 working days depending on the bank and the gateway.
+shoplenovo.co.in does not have influence on the time lines except processing the
+refund. The refund will be credited back between 7-14 days after the processing or until
+your next billing cycle in case it’s a credit card.
+You will receive email intimation from shoplenovo.co.in about the processing of refund.
+You will need to then contact your bank or credit card issuer for refund status."
+What if products ordered by me are out of stock?,"All products shown on the web store are products in stock. In a exceptional case where
+the product ordered by you is out of stock, the same will be communicated to you within
+72 hours and a refund will be processed immediately in case you wish to cancel the
+order."
+How do I track my order once it is placed ?,"Step 1 : You will receive an order confirmation on Email and SMS on the registered email
+address and Phone Number
+Step 2: As soon as the order is shipped you will receive another email and SMS on your
+registered number with the tracking details
+You can also log into your account and view the shipping details."
+Can I change my order once it has been placed?,"We don’t accept changes in the order once they are placed. However If changes are
+communicated within 24 hours, we might be able to make the change in the order or the
+address of delivery . These changes are at the sole discretion of Net Distribution
+Services."
+What is the policy if I receive a damaged shipment?,"Our partner courier company’s make the utmost effort to package and deliver products
+safely. In the unfortunate event that such a scenario may arise, you are requested to
+contact customer care on Contact us within 48 hours from the delivery of the product
+along with the images of the packaging and the delivered product."
+I want to Place bulk orders or need some specific products who do I contact?,"You can write into Contact us for all bulk orders, we will assist you with quotes and
+information based on the emails."
+"What is the warranty on the products that I have bought ? Do I need to register my
+product for warranty ?","All Lenovo products come with a free one-year warranty.
+To purchase an extended warranty, to upgrade your warranty or to check if your product
+is within its warranty period, check
+http://www.lenovo.com/services_warranty/in/en/index.html"
+"Do you give extended warranty on the products if yes , how many years and how do I
+buy the extended warranty?","An extended warranty can be purchased at a nominal extra cost. To know more visit the
+following link and check the Tab most relevant to your product
+http://www.lenovo.com/services_warranty/in/en/index.html"
+Can I order extended warranty online?,"To know more about purchasing/ extending your warranty online, please visit the
+following link and click on the tab most relevant to your product
+http://www.lenovo.com/services_warranty/in/en/index.html"
+"Where are all the service centres of Lenovo , and how I do I get in touch with them for
+my needs ?","Lenovo India has services centres across the country. To find a service centre closest to
+you, please visit this link
+http://support.lenovo.com/en_IN/feedback/contactsupport.page?"
+Which credit/ debit cards does Lenovo support?,"Payments are accepted through certified third party payment gateways. Currently all
+Visa and Master Credit cards will be accepted"
+How do I know that my credit/ debit card payment is safe?,"Payments are accepted through certified third party payment gateways. These
+gateways are certified for all security aspects."
+Can I pay through Net banking? What is the procedure?,"Yes , one can pay through net banking. You need to select net banking as an option on
+the checkout page and you will redirected to the payment gateway. You will need to
+select net banking and the bank you wish to pay from and make the payment."
+"I bought a Hot Deal / EPP product but forgot to apply the code while purchasing. How
+can I avail the offer?","As a standard Audit procedure we are unable to alter the order in terms of pricing,
+content or any other aspects. In case your order hasn’t been shipped, you will need to
+cancel the order and place a fresh order with the applicable code."
+Does my Billing address and the shipment address have to be the same?,"No , the shipping address can be different from the billing address in the case of prepaid
+orders. For Cash on Delivery orders, the billing and the shipping address will need to be
+the same."
+Do I need to create an Account on shoplenovo.co.in to place an order?,You will need to register on the site to place an order.
+What is the benefit of creating an account on shoplenovo.co.in?,"There are various benefits of creating an account on the shoplenovo.co.in, some of the
+benefits are marketing information on promotions and products, special offers to
+shoplenovo.co.in customers.
+You will also not need to input the address for the new orders unless there is a change
+in address. You can also log in review the order history of all the transactions done on
+that account."
+Will I receive invoice pre-delivery of my product?,Invoice Copy is provided at the time of delivery.
+What should I do if my warranty is not extended and I’ve purchased warranty pack?,"For registering your system's additional or extended warranties please email all the
+proofs to india@lenovoreg.com? To facilitate the POP team (pop@lenovo.com ) to
+action your request, the following details are mandatory in the scan copy of the
+Invoice.?
+1. Date of Purchase clearly mentioned?
+2. Serial Number of the Machine / Machine Type Model / IMEI Number(for Tablet)
+?3. Dealer's Signature, Name & Address
+?4. Dealer's Stamp or Seal
+?5. VAT/TIN number
+Also attach warranty pack images and mention activation code for clearance."
+What should I do if my warranty is not extended and I’ve availed for the offer?,"When you avail any warranty offer at the time of placing the order, the warranty is
+extended from the back end and it takes appx. 15-20 business day to extend the
+warranty once the product is delivered. You are notified once it is extended."
+"What should I do if I my onsite warranty is for XXXX years and it is reflecting only for
+XXXX year?","For registering your system's additional or extended warranties please email all the
+proofs to india@lenovoreg.com? To facilitate the POP team (pop@lenovo.com ) to
+action your request, the following details are mandatory in the scan copy of the
+Invoice.?
+1. Date of Purchase clearly mentioned?
+2. Serial Number of the Machine / Machine Type Model / IMEI Number(for Tablet)
+?3. Dealer's Signature, Name & Address
+?4. Dealer's Stamp or Seal ?5. VAT/TIN number
+Also attach warranty pack images and mention activation code for clearance."
+If my laptop is purchased from abroad can I extend warranty in India?,"The warranty for Lenovo warranty pack is limited only within India. If your laptop is
+purchased from abroad you may face compatibility issue."
+"My laptop already has XXXX year of ADP warranty, if I want to extend; how many days
+prior I need to purchase the same?","If you purchase ADP extension, you need to purchase it prior 90 days of expiring of your
+existing ADP."
